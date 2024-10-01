@@ -56,6 +56,12 @@ Bu uygulama, yerel bir ağ üzerinden çoklu kullanıcıların iletişim kurmas�
 - Her istemci, bağlandıklarında sunucudan bir "Hoş geldin" mesajı alır.
 - Mesajlar, diğer bağlı istemciler tarafından görülebilir.
 - Bağlantı kesilirse, istemci otomatik olarak kapanır.
+  
+## Kullanım Örnekleri
+
+Aşağıdaki örnek, istemci uygulamasının nasıl çalıştığını göstermektedir:
+
+![İstemci Örneği](https://github.com/hamz011/chat-room/blob/main/example.jpg)
 
 ## Katkıda Bulunanlar
 
